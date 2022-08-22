@@ -1,0 +1,12 @@
+.idea/
+.bash_logout
+.bashrc
+.env
+.profile
+.env.save
+
+service
+docker/mysql/
+docker/php/
+
+.DS_Store
